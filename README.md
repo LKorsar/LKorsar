@@ -8,7 +8,7 @@ I've been learning to code for almost a year in online-school 'Hexlet', after sw
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [wapovalova@gmail.com](mailto:wapovalova@gmail.com)
-*   🧠  I'm learning currently frontend architecture
+*   🧠  I'm learning currently React
 *   🤝  I'm open to collaborating on projects
 *   ### Skills 
 <p align="left">

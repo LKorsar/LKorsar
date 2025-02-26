@@ -4,7 +4,7 @@ Hi 👋 My name is Mariya Akimkina
 I'm frontend developer
 ----------------------
 
-I've been learning to code for almost a year in online-school 'Hexlet', after switching my career. I began with HTML, and now I'm studing JavaScript.
+I've been learning to code for a year in online-school 'Hexlet', after switching my career. I began with HTML and JavaScript, now I'm studing React and Redux Toolkit.
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [wapovalova@gmail.com](mailto:wapovalova@gmail.com)

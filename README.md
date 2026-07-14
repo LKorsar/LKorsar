@@ -8,7 +8,7 @@ My education: professional course in Frontend development at online school 'Hexl
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [wapovalova@gmail.com](mailto:wapovalova@gmail.com)
-*   🧠  I'm currently learning TypeScript
+*   🧠  I'm currently learning Next.js
 *   🤝  I'm open to collaborating on projects
 *   ### My tech stack
 <p align="left">
